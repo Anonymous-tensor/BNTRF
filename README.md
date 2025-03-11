@@ -1,0 +1,1 @@
+Here is some multimedia from the paper “Biased Nonnegative Tensor Ring Factorization for Time-varying Directed Graph Representation” including the dataset, code for the BNTRF algorithm, and a supplementary file.
