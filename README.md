@@ -1,4 +1,4 @@
-Here is some multimedia from the paper “Biased Nonnegative Tensor Ring Factorization for Time-varying Directed Graph Representation” including the dataset, code for the BNTRF algorithm, and a supplementary file.
+Here is some multimedia from the paper “A Highly-Accurate Dynamic Graph Representational Learning Model Based on Biased Nonnegative Tensor Ring Factorization” including the dataset, code for the BNTRF algorithm, and a supplementary file.
 
 Note that BNTRF-SF.pdf is a supplementary file to this manuscript. Thank you for your access and reading.
 
