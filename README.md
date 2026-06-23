@@ -16,8 +16,8 @@ BNTRF/
 │   ├── D3/
 │   ├── D4/
 │   ├── D5/
-│   └── D6/                # Six dynamic network datasets and fixed data splits
-│   └── 4th-order tensor/
+│   ├── D6/                # Six dynamic network datasets and fixed data splits
+│   ├── 4th-order tensor/
 │   └── UNSW-NB15/
 └── README.md
 ```
